@@ -42,6 +42,6 @@ I'm passionate about technology and have always been curious about what happens 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidgrind3v&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KidGrinD3v&langs_count=8)
 
-![KidGrinDev GitHub stats](https://github-readme-stats.vercel.app/api?username=kidgrind3v&show_icons=true&theme=radical)
+![KidGrinDev GitHub stats](https://github-readme-stats.vercel.app/api?username=KidGrinD3v&show_icons=true&theme=radical)
