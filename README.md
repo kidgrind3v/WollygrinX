@@ -41,5 +41,7 @@ I'm passionate about technology and have always been curious about what happens 
 </div><br>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidgrind3v&show_icons=true&theme=radical)
+
 
 
